@@ -23,7 +23,7 @@
     <color name="primary">@color/page_background</color>
     <color name="primary_dark">#c2c5c7</color>
     <color name="accent">#5795F0</color>
-    <color name="primary_text">#8affffff</color>
+    <color name="primary_text">#D3D3D3</color>
     <color name="secondary_text">#42ffffff</color>
     <color name="button_bar_text_enabled">#ff1e1e1e</color>
     <color name="button_bar_text_disabled">#321e1e1e</color>
